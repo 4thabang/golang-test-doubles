@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Println("Some test doubles")
+  fmt.Println("Test doubles.")
 }
